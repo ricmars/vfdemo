@@ -1,0 +1,397 @@
+/* vodafone-simplicity-v3.0 */
+.Vodafone_sprite { background-image:url('../img/vodafone-sprite-new.jpg') !important;background-position:-767px -1020px;}
+.Vodafone_Smart_Tab_II_7{ background-position:-25px -20px; }
+.Vodafone_Smart_Tab_4_80{ background-position:-175px -20px; }
+.Vodafone_Smart_III{ background-position:-325px -20px; }
+.Vodafone_Smart_II{ background-position:-475px -20px; }
+.Vodafone_Smart_Chat{ background-position:-625px -20px; }
+.Vodafone_Smart_4_Power{ background-position:-25px -220px; }
+.Vodafone_Smart_4_mini{ background-position:-175px -220px; }
+.Vodafone_Smart_4{ background-position:-325px -220px; }
+.Vodafone_R212{ background-position:-475px -220px; }
+.Vodafone_R206{ background-position:-625px -220px; }
+.Vodafone_R205{ background-position:-25px -420px; }
+.Vodafone_R203{ background-position:-175px -420px; }
+.Vodafone_K5008{ background-position:-325px -420px; }
+.Vodafone_K4201{ background-position:-475px -420px; }
+.Vodafone_575{ background-position:-625px -420px; }
+.Vodafone_555{ background-position:-25px -620px; }
+.Vodafone_354{ background-position:-175px -620px; }
+.Vodafone_353{ background-position:-325px -620px; }
+.Vodafone_Smart_4_Max{ background-position: -473px -616px ; }
+.Vodafone_Smart_4_turbo{ background-position: -763px -19px ; }
+.Vodafone_Smart_First{ background-position: -766px -212px ; }
+.Vodafone_Smart_prime_6{ background-position: -764px -414px ; }
+.Vodafone_Smart_Ultra_6{ background-position: -765px -614px ; }
+
+/*** SONY ***/
+
+.Sony_Ericsson_sprite,
+.Sony_sprite { background-image:url('../img/sony-sprite.jpg') !important;background-position:-774px -1020px;}
+.Sony_Xperia_Z3_Compact{ background-position:-25px -20px; }
+.Sony_Xperia_Z3{ background-position:-175px -20px; }
+.Sony_Xperia_Z2_Tablet{ background-position:-325px -20px; }
+.Sony_Xperia_Z2{ background-position:-475px -20px; }
+.Sony_Xperia_Z1{ background-position:-625px -20px; }
+.Sony_Xperia_Z_Ultra{ background-position:-775px -20px; }
+.Sony_Xperia_Z{ background-position:-25px -220px; }
+.Sony_Xperia_Tablet_Z{ background-position:-175px -220px; }
+.Sony_Xperia_SP{ background-position:-325px -220px; }
+.Sony_Xperia_miro{ background-position:-475px -220px; }
+.Sony_Xperia_Mint{ background-position:-625px -220px; }
+.Sony_Xperia_M2{ background-position:-775px -220px; }
+.Sony_Xperia_L{ background-position:-25px -420px; }
+.Sony_Xperia_J{ background-position:-175px -420px; }
+.Sony_Xperia_E3{ background-position:-325px -420px; }
+.Sony_Xperia_E1{ background-position:-475px -420px; }
+.Sony_Ericsson_Xperia_ray{ background-position:-625px -420px; }
+.Sony_Ericsson_Xperia_Play{ background-position:-775px -420px; }
+.Sony_Ericsson_Xperia_Neo{ background-position:-25px -620px; }
+.Sony_Ericsson_Xperia_Mini_Pro{ background-position:-175px -620px; }
+.Sony_Ericsson_Xperia_Arc{ background-position:-325px -620px; }
+
+/*** END SONY ***/
+
+.Samsung_sprite { background-image:url('../img/samsung-sprite-140317.jpg') !important;background-position:-774px -1020px;}
+.Samsung_Nexus_S{ background-position:-25px -20px; }
+.Samsung_GT-E2600_Sundance{ background-position:-175px -20px; }
+.Samsung_GT-E1195{ background-position:-325px -20px; }
+.Samsung_Galaxy_Y{ background-position:-475px -20px; }
+.Samsung_Galaxy_Xcover_2{ background-position:-625px -20px; }
+.Samsung_Galaxy_X_Cover{ background-position:-775px -20px; }
+.Samsung_Galaxy_Tab_101v{ background-position:-25px -220px; }
+.Samsung_Galaxy_Tab_4_101_LTE{ background-position:-175px -220px; }
+.Samsung_Galaxy_Tab_4_80_LTE{ background-position:-325px -220px; }
+.Samsung_Galaxy_Tab_3_80{ background-position:-475px -220px; }
+.Samsung_Galaxy_Tab_2_70{ background-position:-625px -220px; }
+.Samsung_Galaxy_Tab{ background-position:-775px -220px; }
+.Samsung_Galaxy_S5{ background-position:-25px -420px; }
+.Samsung_Galaxy_S4_Zoom{ background-position:-175px -420px; }
+.Samsung_Galaxy_S4_Mini{ background-position:-325px -420px; }
+.Samsung_Galaxy_S4{ background-position:-475px -420px; }
+.Samsung_Galaxy_S_Plus{ background-position:-625px -420px; }
+.Samsung_Galaxy_S_III_Mini{ background-position:-775px -420px; }
+.Samsung_Galaxy_S_III{ background-position:-25px -620px; }
+.Samsung_Galaxy_S{ background-position:-175px -620px; }
+.Samsung_Galaxy_Pocket_Neo{ background-position:-325px -620px; }
+.Samsung_Galaxy_Note_II{ background-position:-475px -620px; }
+.Samsung_Galaxy_Note_4{ background-position:-625px -620px; }
+.Samsung_Galaxy_Note_3{ background-position:-775px -620px; }
+.Samsung_Galaxy_Nexus{ background-position:-25px -820px; }
+.Samsung_Galaxy_Fame{ background-position:-175px -820px; }
+.Samsung_Galaxy_Express_2{ background-position:-325px -820px; }
+.Samsung_Galaxy_Ace{ background-position:-475px -820px; }
+.Samsung_Galaxy_A5,
+.Samsung_Galaxy_A5_2017_Android_60 { background-position:-171px -2088px; }
+.Samsung_Galaxy_A3,
+.Samsung_Galaxy_A3_2016_Android_511,
+.Samsung_Galaxy_A3_2017_Android_601{ background-position:-18px -2091px; }
+.Samsung_E1270{ background-position:-25px -1020px; }
+.Samsung_E1200{ background-position:-175px -1020px; }
+.Samsung_C3350_Eisen{ background-position:-325px -1020px; }
+
+.Samsung_Galaxy_Core_Prime{ background-position: -498px -1451px ; }
+.Samsung_Galaxy_Note_Edge{ background-position: -637px -1450px ; }
+.Samsung_Galaxy_S_Advance{ background-position: -789px -1447px ; }
+.Samsung_Galaxy_S5_mini{ background-position: -174px -1251px ;}
+.Samsung_Galaxy_S5_Neo{ background-position: -328px -1251px ; }
+.Samsung_Galaxy_S6_edge__,
+.Samsung_Galaxy_S6_edge_ { background-position: -494px -1251px ; }
+.Samsung_Galaxy_S6_edge{ background-position: -635px -1251px ;}
+.Samsung_Galaxy_S6{ background-position: -782px -1251px ; }
+
+.Samsung_Galaxy_S_II{ background-position: -177px -1673px ;}
+.Samsung_S5229{ background-position: -338px -1667px ;}
+.Samsung_S7500_Trebon{ background-position: -501px -1662px ;}
+.Samsung_Galaxy_Tab_2_101{ background-position: -641px -1661px ;}
+.Samsung_Galaxy_Tab_3_101{ background-position: -788px -1661px ;}
+.Samsung_Galaxy_Tab_S2_97{ background-position: -177px -1466px ;}
+.Samsung_Galaxy_Tab_101_GT-P7500{ background-position: -31px -1478px ;}
+.Samsung_GT-B2710{ background-position: -328px -1460px ;}
+.Samsung_Galaxy_Mini_2{ background-position: -31px -1253px ;}
+/*added 17-10-16*/
+.Samsung_Galaxy_Xcover_3,
+.Samsung_Galaxy_Xcover_3_Value_Edition_Android_60,
+.Samsung_Galaxy_Xcover_3_Android_444  { background-position: -24px -1660px; }
+.Samsung_Galaxy_Alpha,
+.Samsung_Galaxy_Alpha_Android_444 { background-position: -27px -1870px; }
+.Samsung_Galaxy_Tab_A,
+.Samsung_Galaxy_Tab_A_101_2016_Android_60 { background-position: -175px -1870px; }
+.Samsung_Galaxy_S7,
+.Samsung_Galaxy_S7_Android_60 { background-position: -324px -1870px; }
+.Samsung_Galaxy_S7_edge,
+.Samsung_Galaxy_S7_edge_Android_60 { background-position: -476px -1870px; }
+.Samsung_Galaxy_J5,
+.Samsung_Galaxy_J5_2016_Android_60,
+.Samsung_Galaxy_J5_Android_511  { background-position: -627px -1870px; }
+.Samsung_Galaxy_J3_2016,
+.Samsung_Galaxy_J3_2016_Android_511 { background-position: -776px -1870px; }
+
+.Nokia_sprite { background-image:url('../img/nokia-sprite-191016.jpg') !important; background-position:-774px -1020px;}
+.Nokia_N700{ background-position:-25px -20px; }
+.Nokia_Lumia_1520{ background-position:-175px -20px; }
+.Nokia_Lumia_1020{ background-position:-325px -20px; }
+.Nokia_Lumia_930{ background-position:-475px -20px; }
+.Nokia_Lumia_925{ background-position:-625px -20px; }
+.Nokia_Lumia_920{ background-position:-775px -20px; }
+.Nokia_Lumia_820{ background-position:-25px -220px; }
+.Nokia_Lumia_800{ background-position:-175px -220px; }
+.Nokia_Lumia_710{ background-position:-325px -220px; }
+.Nokia_lumia_635{ background-position:-475px -220px; }
+.Nokia_Lumia_625{ background-position:-625px -220px; }
+.Nokia_Lumia_620{ background-position:-775px -220px; }
+.Nokia_Lumia_610{ background-position:-25px -420px; }
+.Nokia_Lumia_520{ background-position:-175px -420px; }
+.Nokia_E7{ background-position:-325px -420px; }
+.Nokia_C3{ background-position:-475px -420px; }
+.Nokia_C2-01{ background-position:-625px -420px; }
+.Nokia_Asha_302{ background-position:-775px -420px; }
+.Nokia_Asha_210{ background-position:-25px -620px; }
+.Nokia_Asha_201{ background-position:-175px -620px; }
+.Nokia_515{ background-position:-325px -620px; }
+.Nokia_300_Asha{ background-position:-475px -620px; }
+.Nokia_220{ background-position:-625px -620px; }
+.Nokia_208{ background-position:-775px -620px; }
+.Nokia_207{ background-position:-25px -820px; }
+.Nokia_113{ background-position:-175px -820px; }
+.Nokia_100{ background-position:-325px -820px; }
+
+.Nokia_Lumia_635{ background-position: -24px -1023px; }
+.Nokia_Lumia_735{ background-position: -614px -830px; }
+.Nokia_Lumia_830{ background-position: -470px -824px; }
+/*added 17-10-16*/
+.Nokia_108,
+.Nokia_108_Proprietary_OS{ background-position: -775px -820px; }
+
+
+.Apple_sprite { background-image:url('../img/apple-sprite-191016.jpg') !important; background-position:-774px -1020px;}
+.Apple_The_new_iPad{ background-position:-25px -20px; }
+.Apple_iPhone_6_Plus,
+.Apple_iPhone_6_Plus_iOS_90,
+.Apple_iPhone_6_Plus_iOS_100,
+.Apple_iPhone_6_Plus_iOS_101 { background-position:-175px -20px; }
+.Apple_iPhone_6,
+.Apple_iPhone_6_iOS_100,
+.Apple_iPhone_6_iOS_90 { background-position:-325px -20px; }
+.Apple_iPhone_6_Plus_iOS8{ background-position:-175px -20px; }
+.Apple_iPhone_6_iOS8{ background-position:-325px -20px; }
+.Apple_iPhone_5s_iOS8{ background-position:-475px -20px; }
+.Apple_iPhone_5s_iOS7{ background-position:-625px -20px; }
+.Apple_iPhone_5s,
+.Apple_iPhone_5s_iOS_100 { background-position:-775px -20px; }
+.Apple_iPhone_5c_iOS8,
+.Apple_iPhone_5c_iOS_100{ background-position:-25px -220px; }
+.Apple_iPhone_5c{ background-position:-175px -220px; }
+.Apple_iPhone_5,
+.Apple_iPhone_5_iOS_101{ background-position:-325px -220px; }
+.Apple_iPhone_4S{ background-position:-475px -220px; }
+.Apple_iPhone_4_iOS5{ background-position:-625px -220px; }
+.Apple_iPhone_4_iOS4{ background-position:-775px -220px; }
+.Apple_iPhone_3gs{ background-position:-25px -420px; }
+.Apple_iPhone_3g{ background-position:-175px -420px; }
+.Apple_iPad_with_retina_display{ background-position:-325px -420px; }
+.Apple_iPad_mini{ background-position:-475px -420px; }
+.Apple_iPad_2_Wi-Fi___3G,
+.Apple_iPad_2_Wi-Fi__3G,
+.Apple_iPad_4_iOS_101,
+.Apple_iPad_Pro_iOS_93 { background-position:-625px -420px; }
+.Apple_iPhone_6s_Plus,
+.Apple_iPhone_6s_Plus_iOS_90,
+.Apple_iPhone_6s_Plus_iOS_100{ background-position: -20px -620px ;}
+.Apple_iPhone_6s,
+.Apple_iPhone_6s_iOS_90,
+.Apple_iPhone_6s_iOS_100{background-position: -769px -423px ;}
+
+/*orly added 22-12-15*/
+.Apple_iPad_Air{background-position: -462px -626px;}
+.Apple_iPad_Air_iOS8,
+.Apple_iPad_Air_iOS_101{background-position: -462px -626px;}
+.Apple_iPad_Air2,
+.Apple_iPad_Air_2_iOS_101,
+.Apple_iPad_Air_2_iOS_81  {background-position: -321px -600px;}
+.Apple_iPad_mini3,
+.Apple_iPad_mini_3_iOS_90 {background-position: -171px -600px;}
+/*added 17-10-16*/
+.Apple_iPhone_7,
+.Apple_iPhone_7_iOS_100{background-position:-624px -620px;}
+.Apple_iPhone_7_Plus,
+.Apple_iPhone_7_Plus_iOS_100 {background-position:-773px -620px;}
+.Apple_iPhone_SE,
+.Apple_iPhone_SE_iOS_93,
+.Apple_iPhone_SE_iOS_100 {background-position:-22px -820px;}
+
+
+
+.BlackBerry_sprite { background-image:url('../img/blackberry-sprite-191016.jpg') !important; background-position:-774px -1020px;}
+.BlackBerry_Z30{ background-position:-25px -20px; }
+.BlackBerry_Z10{ background-position:-175px -20px; }
+.BlackBerry_Torch_9860{ background-position:-325px -20px; }
+.BlackBerry_Torch_9810{ background-position:-475px -20px; }
+.BlackBerry_Q10{ background-position:-625px -20px; }
+.BlackBerry_Q5{ background-position:-775px -20px; }
+.BlackBerry_Passport{ background-position:-25px -220px; }
+.BlackBerry_Curve_9720{ background-position:-175px -220px; }
+.BlackBerry_Curve_9360{ background-position:-325px -220px; }
+.BlackBerry_Curve_9320{ background-position:-475px -220px; }
+.BlackBerry_Classic{ background-position:-625px -220px; }
+.BlackBerry_Bold_9900{ background-position:-775px -220px; }
+.BlackBerry_Bold_9790{ background-position:-25px -420px; }
+.BlackBerry_8520_Curve{ background-position:-175px -420px; }
+/*added 17-10-16*/
+.BlackBerry_Leap,
+.BlackBerry_Leap_BlackBerry_1031 { background-position:-324px -420px; }
+.BlackBerry_Priv,
+.BlackBerry_Priv_Android_511 { background-position:-474px -420px; }
+
+
+/*** Doro ***/
+/*added 17-10-16*/
+.Doro_sprite { background-image:url('../img/doro-sprite-140317.jpg') !important; background-position:-773px -1020px;}
+.Doro_Liberto_820_Mini,
+.Doro_Liberto_820_Mini_Android_442 { background-position:-27px -20px; }
+/*added 14-03-17*/
+.Doro_6520_Proprietary_OS { background-position:-158px -224px; }
+.Doro_PhoneEasy_632_Proprietary_OS { background-position:-27px -225px; }
+
+.HTC_sprite { background-image:url('../img/htc-sprite-191016.jpg') !important; background-position:-774px -1020px;}
+.HTC_Wildfire_S{ background-position:-25px -20px; }
+.HTC_Sensation_XL{ background-position:-175px -20px; }
+.HTC_Sensation{ background-position:-325px -20px; }
+.HTC_One_X{ background-position:-475px -20px; }
+.HTC_One_V{ background-position:-625px -20px; }
+.HTC_One_SV{ background-position:-775px -20px; }
+
+.HTC_One_S{ background-position:-25px -220px; }
+.HTC_One_mini_2{ background-position:-175px -220px; }
+.HTC_One_Mini{ background-position:-325px -220px; }
+.HTC_One_Max{ background-position:-475px -220px; }
+.HTC_One_M9{ background-position:-625px -220px; }
+.HTC_One_M8{ background-position:-775px -220px; }
+
+.HTC_One{ background-position:-25px -420px; }
+.HTC_Explorer{ background-position:-175px -420px; }
+.HTC_Desire_X{ background-position:-325px -420px; }
+.HTC_Desire_HD{ background-position:-475px -420px; }
+.HTC_Desire_C{ background-position:-625px -420px; }
+.HTC_Desire_610{ background-position:-775px -420px; }
+
+.HTC_Desire_510{ background-position:-25px -620px; }
+.HTC_Desire_310{ background-position:-175px -620px; }
+.HTC_ChaCha{ background-position:-325px -620px; }
+.HTC_8X{ background-position:-475px -620px; }
+.HTC_8S{ background-position:-625px -620px; }
+.HTC_7_Trophy{ background-position:-775px -620px; }
+.HTC_Desire_320{ background-position: -17px -808px ; }
+
+/*orly added 22-12-15*/
+.HTC_One_M8s,
+.HTC_One_M8s_Android_502 {background-position: -168px -802px;}
+/*added 17-10-16*/
+.HTC_One_A9,
+.HTC_One_A9_Android_60 {background-position: -325px -802px;}
+.HTC_Desire_530,
+.HTC_Desire_530_Android_60 {background-position: -473px -802px;}
+
+.Amazon_sprite { background-image:url('../img/Amazon-sprite.jpg') !important; background-position:-774px -1020px;}
+.Amazon_Kindle_Fire_HDX_89{ background-position:-25px -20px; }
+.Amazon_Kindle_Fire_HDX_7{ background-position:-175px -20px; }
+.Amazon_Kindle_Fire_HDX{ background-position:-325px -20px; }
+
+
+.Motorola_sprite { background-image:url('../img/motorola-sprite-221215.jpg') !important; background-position:-774px -1020px;}
+.Motorola_Moto_G{ background-position:-25px -20px; }
+.Motorola_Bunting{ background-position:-175px -20px; }
+.Motorola_Moto_G_3rd_gen_-_XT1541,
+.Motorola_Moto_G_3rd_gen_-_XT1541_Android_51{background-position: -305px -28px;}
+.Motorola_Nexus_6,
+.Motorola_Nexus_6_Android_50 {background-position: -439px -27px;}
+
+.Huawei_sprite { background-image:url('../img/huawei-sprite-140317.jpg') !important; background-position:-774px -1020px;}
+.Huawei_Ascend_Mate{ background-position:-25px -20px; }
+.Huawei_Ascend_G300{ background-position:-175px -20px; }
+/*added 17-10-16*/
+.Huawei_Ascend_P1{ background-position:-326px -20px; }
+.Huawei_P8_Lite,
+.Huawei_P8_Lite_Android_501 { background-position:-475px -20px; }
+.Huawei_Y6,
+.Huawei_Y6_Android_511 { background-position:-624px -20px; }
+.Huawei_P9,
+.Huawei_P9_Android_60,
+.Huawei_P9_lite_Android_60 { background-position:-774px -20px; }
+.Huawei_P9_Plus,
+.Huawei_P9_Plus_Android_60 { background-position:-25px -220px; }
+
+/*added 14-03-17*/
+.Huawei_MediaPad_M2_80_Android_511 {background-position:-25px -404px;}
+
+
+.Alcatel_sprite { background-image:url('../img/Alcatel-sprite.jpg') !important; background-position:-774px -1020px;}
+.Alcatel_One_Touch_2010{ background-position:-25px -20px; }
+
+/*** LG ***/
+.LG_sprite { background-image:url('../img/lg-sprite-140317.jpg') !important; background-position:-74px -64px;}
+.LG_G_Flex_2{ background-position: -100px -298px; }
+.LG_G3{background-position: -250px -301px ;}
+.LG_G4{background-position: -401px -300px ;}
+.LG_Leon_4G{background-position: -399px -50px ;}
+.LG_G2{background-position: -249px -51px ;}
+.LG_T505{background-position: -94px -483px;}
+.LG_G3_S{background-position: -250px -483px;}
+/*added 17-10-16*/
+.LG_G4c,
+.LG_G4c_Android_502 {background-position: -400px -478px;}
+.LG_G5,
+.LG_G5_Android_60 {background-position: -93px -679px;}
+.LG_K4_LTE,
+.LG_K4_LTE_Android_511 {background-position: -253px -681px;}
+.LG_K8_4G,
+.LG_K8_4G_Android_60 {background-position: -404px -679px;}
+/*added 14-03-17*/
+.LG_K4_2017_Android_60 {background-position: -84px -893px;}
+
+/*** Microsoft ***/
+.Microsoft_sprite { background-image:url('../img/microsoft-sprite-191016.jpg') !important; background-position:-71px -61px;}
+.Microsoft_Lumia_640,
+.Microsoft_Lumia_640_XL { background-position: -250px -50px; }
+.Microsoft_Lumia_535,
+.Microsoft_Lumia_535_Windows_Phone_81 {background-position: -404px -54px;}
+/*added 17-10-16*/
+.Microsoft_Lumia_550,
+.Microsoft_Lumia_550_Windows_Phone_100 { background-position: -75px -266px; }
+.Microsoft_Lumia_950,
+.Microsoft_Lumia_950_Windows_Phone_100 { background-position: -248px -266px; }
+
+/*** ZTE ***/
+.ZTE_sprite { background-image:url('../img/zte-sprite-221215.jpg') !important; background-position:-32px -58px;}
+.ZTE_K4201z_Leopard,
+.ZTE_K4201zLeopard { background-position: -198px -50px ;}
+.ZTE_K4201z_Snow_Leopard,
+.ZTE_K4201zSnow_Leopard { background-position: -198px -50px ;}
+.ZTE_K4201z_Windows_7,
+.ZTE_K4201zWindows_7 { background-position: -198px -50px ;}
+.ZTE_K4201z_Windows_Vista,
+.ZTE_K4201zWindows_Vista { background-position: -198px -50px ;}
+.ZTE_K5006z_Leopard,
+.ZTE_K5006zLeopard { background-position: -349px -52px ;}
+.ZTE_K5006z_Snow_Leopard,
+.ZTE_K5006zSnow_Leopard { background-position: -349px -52px ;}
+.ZTE_K5006z_Windows_7,
+.ZTE_K5006zWindows_7 { background-position: -349px -52px ;}
+.ZTE_K5006z_Windows_Vista,
+.ZTE_K5006zWindows_Vista { background-position: -349px -52px ;}
+.ZTE_K5008z_Leopard,
+.ZTE_K5008zLeopard { background-position: -500px -50px ;}
+.ZTE_K5008z_Snow_Leopard,
+.ZTE_K5008zSnow_Leopard { background-position: -500px -50px ;}
+.ZTE_K5008z_Windows_7,
+.ZTE_K5008zWindows_7 { background-position: -500px -50px ;}
+.ZTE_K5008z_Windows_Vista,
+.ZTE_K5008zWindows_Vista { background-position: -500px -50px ;}
+
+
+
+/*added 14-03-17*/
+.MobiWire_Dakota_Proprietary_OS {
+    background-image:url('../img/mobiwire-sprite-140317.jpg') !important;
+    background-position:-63px -218px;
+}

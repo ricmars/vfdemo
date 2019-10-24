@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #333f48;
+      }
+    </style>
+  </defs>
+  <title>filter-arrows</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <rect class="cls-1" width="16" height="16"/>
+      <g>
+        <path class="cls-2" d="M5.9,6.8,8,4.7l2.1,2.1a.6.6,0,0,0,.8,0,.9.9,0,0,0,0-.7L8,3.2,5.1,6.1a.9.9,0,0,0,0,.7.6.6,0,0,0,.8,0Z"/>
+        <path class="cls-2" d="M10.1,9.2,8,11.3,5.9,9.2a.6.6,0,0,0-.8,0,.9.9,0,0,0,0,.7L8,12.8l2.9-2.9a.9.9,0,0,0,0-.7.6.6,0,0,0-.8,0Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
