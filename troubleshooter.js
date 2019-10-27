@@ -20,7 +20,7 @@ function parseResponse(myJson) {
 
     document.getElementById(
       "response"
-    ).innerHTML = `<div><div class='field-item'><label>Case ID</label><span>${caseID}</span></div><div class='field-item'><label>CurrentRequestID</label><span>${CurrentRequestID}</span></div><div class='form-el field-stacked'><label>${CurrentRequestText}</label><select style='${field_inline}' id='requestvalue'>${options}</select></div><div class='form-el field-stacked'><button class='form-el' onclick='submitAnswer()'>Continue</button></div><div>`;
+    ).innerHTML = `<div><div class='field-item'><label>Case ID</label><span>${caseID}</span></div><div class='form-el field-stacked'><label>${CurrentRequestText}</label><select style='${field_inline}' id='requestvalue'>${options}</select></div><div class='form-el field-stacked'><button class='form-el' onclick='submitAnswer()'>Continue</button></div><div>`;
   } else {
     var action = myJson.RequestAndResponse.Action;
     document.getElementById(
